@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class MiltKokuji < Formula
+class Mikokuji < Formula
   desc "国交省のWebサイトから告示を検索し表示するコマンドラインスクリプトです。"
   homepage ""
   url "https://github.com/ryuhey0123/milt-kokuji/releases/download/v1.0/mikokuji-v1.0.tar.gz"
